@@ -1,0 +1,76 @@
+booy{
+    background-color: rgba(137, 142, 206, 0.678);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/*address section */
+#address{
+padding-top: 40px;
+text-align: center;
+
+}
+h1{
+    margin-bottom: 0%;
+}
+#about-me{
+    width: 80%;
+    background-color: rgb(238, 240, 156);
+    height:auto;
+    margin: 0 10%;
+}
+.about-left{
+    width: 30%;
+    float:left;
+    padding: 3px 0 0 1%;
+}
+.about-right{
+    width: 50%;
+    display: inline-block;
+    line-height: 2rem;
+    padding: 0 0 0 15%;
+}
+
+#skills{
+    width: 75.7%;
+    background-color: rgb(219, 183, 139);
+    height: auto;
+    margin: 0 0 0 10%;
+    line-height: 2rem;
+    padding: 30px;
+    padding-bottom: 15px;
+}
+#cv{
+    width: 75.7%;
+    background-color: rgb(238, 240, 156);
+    height: auto;
+    margin: 0 0 0 10%;
+    line-height: 2rem;
+    padding: 30px;
+    padding-bottom: 15px;
+}
+#contact{
+    width: 75.7%;
+    background-color: rgb(238, 240, 156);
+    height: auto;
+    margin: 0 0 0 10%;
+    line-height: 2rem;
+    padding: 30px;
+    padding-bottom: 15px;
+}
+input[type=text], input[type=texttarea], input[type=email]{
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
+    width: 80%;
+    margin-left: 10px;
+}
+input[type=submit]{
+    background-color: rgb(119, 70, 5); 
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+
+}
